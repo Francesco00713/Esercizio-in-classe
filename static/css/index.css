@@ -7,6 +7,10 @@
     align-items: center;
 }
 
+.transition{
+    transition: 2s;
+}
+
 .greenBg{
     background-color: green;
 }
